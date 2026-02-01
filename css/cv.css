@@ -293,3 +293,41 @@ body {
 #passions .fond {
     background-color: black;
 }
+
+
+/******************************************
+* Passions
+******************************************/
+.passions-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 15px;
+}
+
+
+.fond {
+    background-color: #000;
+    color: #fff;
+
+    padding: 10px 15px;
+    border-radius: 12px;
+
+    min-width: 130px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: 8px;
+
+    font-size: 14px;
+    font-weight: 500;
+
+    text-align: center;
+}
+
+.fond .fa-heart {
+    color: #ff4d6d;
+    font-size: 14px;
+}
