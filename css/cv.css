@@ -7,7 +7,11 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     Author     : renzo.bagnoli
 */
 body {
-    padding-top: 50px;
+    padding-top: 50px;    
+}
+
+body head {
+    font-family: 'Lexend', sans-serif;
 }
 .cadreCV {
     padding-bottom: 15px;
@@ -330,4 +334,8 @@ body {
 .fond .fa-heart {
     color: #ff4d6d;
     font-size: 14px;
+}
+
+.text-center{
+    text-align: center;
 }

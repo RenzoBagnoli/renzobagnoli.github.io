@@ -1,0 +1,20 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 6 févr. 2026, 13:44:11
+    Author     : renzo.bagnoli
+*/
+
+.photo{
+    width : 200px;
+    height : 200px;
+    object-fit : cover;
+    border-radius : 20px;
+    margin-bottom : 20px;
+}
+
+body head {
+    font-family: 'Lexend', sans-serif;
+}
