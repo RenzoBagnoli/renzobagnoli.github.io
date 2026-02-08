@@ -28,6 +28,12 @@ body head {
     font-family: 'Lexend', sans-serif;
 }
 
+#icone{
+    width : 30px;
+    height : 30px;
+}
+
+
 /****************************************
 * nav bar
 ****************************************/

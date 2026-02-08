@@ -20,6 +20,12 @@ body head {
     background: white;
     margin-top : 15px;
 }
+
+#icone{
+    width : 30px;
+    height : 30px;
+}
+
 /****************************************
 * En-tête du CV
 ****************************************/
@@ -49,7 +55,7 @@ body head {
     letter-spacing: -1px;
 }
 #cv-intro h1 span {
-    color: rgb(226,0,26);
+    color: rgba(29, 211, 176, 0.92);
 }
 #cv-intro::after {
     background: url('images/ligne.png'); /* Dossier "images" est un sous-
@@ -68,7 +74,7 @@ body head {
     margin-bottom: 15px;
 }
 .rubrique h2 {
-    color: rgb(226,0,26);
+    color: rgba(29, 211, 176, 0.92);
 }
 .rubrique h2::before{
     margin-right: 5px;
